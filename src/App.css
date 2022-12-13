@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.App {
+  text-align: center;
+}
+
+#card-body {
+  display: inline-flex;
+  padding: 1em;
+  margin: 30px 30px;
+  border: 1px solid black;
+  border-radius: 8px;
+  /* background: lightblue; */
+ }
+ 
